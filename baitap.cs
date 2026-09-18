@@ -1,4 +1,4 @@
-    cd Desktop\baitapusing System;
+
 
 class Program
 {
